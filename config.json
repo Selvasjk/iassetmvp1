@@ -22,12 +22,6 @@
             "required": false
         },
         {
-            "title": "Fine Location",
-            "name": "android.permission.ACCESS_FINE_LOCATION",
-            "platform": "android",
-            "required": false
-        },
-        {
             "title": "Coarse Location",
             "name": "android.permission.ACCESS_COARSE_LOCATION",
             "platform": "android",
@@ -134,7 +128,7 @@
             "enabled": true
         }
     },
-    "appVersion": "2.0.0",
-    "buildNumber": 2,
+    "appVersion": "3.0.0",
+    "buildNumber": 3,
     "runtimeUrl": "https://iz-asset-accp.apps.ap-2a.mendixcloud.com/"
 }
