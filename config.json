@@ -22,18 +22,6 @@
             "required": false
         },
         {
-            "title": "Coarse Location",
-            "name": "android.permission.ACCESS_COARSE_LOCATION",
-            "platform": "android",
-            "required": false
-        },
-        {
-            "title": "Background Location",
-            "name": "android.permission.ACCESS_BACKGROUND_LOCATION",
-            "platform": "android",
-            "required": false
-        },
-        {
             "title": "Location - When In Use Usage",
             "name": "NSLocationWhenInUseUsageDescription",
             "purpose": "To use that feature, the app needs access to your location.",
@@ -128,7 +116,7 @@
             "enabled": true
         }
     },
-    "appVersion": "1.0.4",
-    "buildNumber": 4,
+    "appVersion": "1.0.5",
+    "buildNumber": 5,
     "runtimeUrl": "https://iz-asset-accp.apps.ap-2a.mendixcloud.com/"
 }
