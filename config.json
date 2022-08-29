@@ -115,5 +115,8 @@
         "nativeOTA": {
             "enabled": true
         }
-    }
+    },
+    "appVersion": "1.0.9",
+    "buildNumber": 9,
+    "runtimeUrl": "https://iz-asset-accp.apps.ap-2a.mendixcloud.com/"
 }
