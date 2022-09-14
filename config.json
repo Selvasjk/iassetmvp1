@@ -134,7 +134,7 @@
             "enabled": true
         }
     },
-    "appVersion": "3.0.0",
-    "buildNumber": 3,
+    "appVersion": "2.0.0",
+    "buildNumber": 2,
     "runtimeUrl": "https://iz-asset-accp.apps.ap-2a.mendixcloud.com"
 }
